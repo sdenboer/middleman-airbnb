@@ -1,0 +1,48 @@
+chengdu:
+  avatar: 37391582
+  quote: "Panda's & Polution"
+  country: "China"
+shanghai:
+  avatar: 38745414
+  quote: "Expensive and Big"
+  country: "China"
+amsterdam:
+  avatar: 39719959
+  quote: "Bikes and Bikes"
+  country: "the Netherlands"
+paris:
+  avatar: 47646
+  quote: "Panda's & Polution"
+  country: "France"
+berlin:
+  avatar: 476457
+  country: "Germany"
+bordeaux:
+  avatar: 56347
+  country: "France"
+lyon:
+  avatar: 2435
+  country: "France"
+marseille:
+  avatar: 1
+  country: "France"
+nantes:
+  avatar: 2543245
+  country: "France"
+london:
+  avatar: 245
+  country: "England"
+barcelona:
+  avatar: 1341342
+  country: "Spain"
+copenhagen:
+  avatar: 1234134
+  country: "Denmark"
+brussels:
+  avatar: 1524
+  country: "Belgium"
+bali:
+  avatar: 1324
+  country: "Indonesia"
+
+
